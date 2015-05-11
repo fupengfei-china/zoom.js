@@ -1,4 +1,4 @@
-# ZOOM test
+# ZOOM gh-pages
 
 A bit about our Image Zoom plugin: https://medium.com/designing-medium/image-zoom-on-medium-24d146fc0c20
 
